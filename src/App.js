@@ -4,9 +4,6 @@ import ScrollAnimation from "react-animate-on-scroll";
 import img from "./logo.svg"
 import { useEffect } from "react";
 
-
-
-    
 function App() {
   useEffect(() => {
     const elements = document.querySelectorAll(".Shawkat");
